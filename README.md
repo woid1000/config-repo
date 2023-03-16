@@ -1,2 +1,2 @@
 # config-repo
-Configuration repository for Hr-application
+Production configuration repository for Hr-application with PostGreSql
